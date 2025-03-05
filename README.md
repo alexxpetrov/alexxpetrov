@@ -4,7 +4,7 @@
 
 <div align="center">
   <p>
-    I'm a Full Stack software engineer specializing in Typescript and Golang. Utilizing such solutions as Next.js, React, Redux, PostgreSQL, Redis, Kafka and more
+    I'm a Full Stack software engineer specializing in TypeScript, JavaScript, React, Next.js, Node.js and Golang. Expert in building visually appealing web applications that bring value to business and customers
   </p>
 </div>
 
